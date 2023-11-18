@@ -1,0 +1,70 @@
+h3{
+	color:white;
+}
+
+.mt-3{
+	color:white;
+}
+/* Navbar */
+.navbar {
+	background-color: #343a40;
+	color: #fff;
+  }
+  
+  .navbar-brand {
+	color: #fff;
+  }
+  
+  .nav-link {
+	color: #fff;
+  }
+  
+  /* Form */
+  .form-control {
+	margin-bottom: 10px;
+  }
+  
+  .btn {
+	margin-top: 10px;
+  }
+  
+  /* Contact Details */
+  .col {
+	margin-top: 30px;
+	text-align: center;
+  }
+  
+  /* Footer */
+  .footer {
+	background-color: #343a40;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+  }
+  
+  .socials {
+	margin-bottom: 10px;
+  }
+  
+  ion-icon {
+	color: #fff;
+	font-size: 24px;
+	margin-right: 10px;
+  }
+  
+  /* Miscellaneous */
+  body {
+	padding: 20px;
+  }
+  
+  hr {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border: 0;
+	border-top: 1px solid #ccc;
+  }
+  
+  h2 {
+	color: #fff;
+	text-align: center;
+  }
